@@ -182,12 +182,6 @@ sentiment-movie-recommender/
 
 ---
 
-## Screenshots
-
-> Add screenshots of the Streamlit UI — movie selector, recommendation cards with posters
-
----
-
 ## Author
 
 **Athish Sabarish JS**
